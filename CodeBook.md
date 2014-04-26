@@ -93,4 +93,4 @@ The activity carried out by the volunteer. The possible activities are 'WALKING'
     fBodyBodyGyroJerkMag-std()
     fBodyBodyGyroJerkMag-meanFreq()
 
-All these columns contain the average of the columns of the same name in the raw data for the corresponding subjectId and activity. The average is over the join of test and training data. Each step is documented in the R script run_analysis.R
+All these columns contain the average of the columns of the same name in the raw data for the corresponding subjectId and activity. The average is over the join of test and training data. The details of the transformations are documented for each step in the R script run_analysis.R.
