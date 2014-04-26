@@ -1,10 +1,6 @@
-## Coursera Course
-## Getting and Cleaning Data
-## by Jeff Leek
+## Coursera Course : Getting and Cleaning Data
 
-### Peer Assessment
-### by azrael42
-### 26 April 2014
+### Peer Assessment by azrael42 26 April 2014
 
 setwd("D:/Downloads/Coursera/Cleaning Data by Jeff Leek/Peer Assessment/")
 rm(list=ls())
